@@ -11,3 +11,5 @@ to make random posts to test run this command : php artisan db:seed --class=Post
 to make random subscriptions to test run this command : php artisan db:seed --class=SubscriptionsTableSeeder                                                                                                            
 to open the app for testing the random data you put in database open this local host url: http://127.0.0.1:8000/api/documentation                                                                                       
 And to send mails to emails with new posts of subscriped websites run this command : php artisan app:send-posts-email
+
+To send mails to specific email and from specific website : php artisan app:send-posts-email {email} {website_id}
