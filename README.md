@@ -1,5 +1,5 @@
 # subapp-insiev-task
-The project url: https://drive.google.com/file/d/17wR70iEcbHsFkbuEavyDVHzjvJCOqG1A/view?usp=drive_link
+The project url: [https://drive.google.com/file/d/17wR70iEcbHsFkbuEavyDVHzjvJCOqG1A/view?usp=drive_link](https://drive.google.com/file/d/1ay0vvls7PGNu8jCNqV6EJ84ZBKP6TEOk/view?usp=sharing)
 
 Simple subscription platform in which users can subscribe a website Whenever a new post is published on a particular website, all it's subscribers shall receive an email with the post title and description in it
 
